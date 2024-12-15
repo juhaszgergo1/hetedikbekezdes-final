@@ -1,0 +1,73 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.text-danger {
+    color: #e74c3c !important; /* piros szín */
+}
+
+.bg-danger {
+    background-color: #e74c3c !important; /* piros háttér */
+}
+
+.bg-light {
+    background-color: #f8f9fa !important; /* világosszürke háttér */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+.card-body {
+    text-align: center;
+}
+.card-title {
+    font-size: 1.5rem; /* Nagyobb cím betűméret */
+}
+
+.card-text {
+    font-size: 1.2rem; /* Nagyobb szöveg betűméret */
+    color: #555;
+}
+
+/* Elérhetőségek gombok méretének növelése */
+.btn {
+    font-size: 1.25rem; /* Nagyobb betűméret a gombokon */
+    padding: 10px 20px; /* Nagyobb belső margó */
+    margin: 10px 0; /* További távolság a gombok között */
+}
+
+/* Gombikonok méretének növelése */
+.btn i {
+    font-size: 1.5rem; /* Nagyobb ikonméret */
+    margin-right: 10px; /* Távolság az ikon és a szöveg között */
+}
+
+.gabor{
+    font-size: 2.5rem; /* Nagyobb betűméret a gombokon */
+    padding: 0,9rem 1.4rem; /* Nagyobb belső margó */
+    margin: 0.3rem 0 auto; /* További távolság a gombok között */
+    width: 25rem;
+    height: 5rem ;
+    text-align: center;
+    margin-top: 1rem;
+    
+}
+
+.alma{
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+.kep{
+    width: 55%;
+}
